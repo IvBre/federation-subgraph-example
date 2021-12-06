@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: "subgraph-example"
+
+graphql:
+  packages:
+    - "federation.subgraph.example"
+  federation:
+    enabled: true
+    tracing:
+      enabled: true
+
+server:
+  port: 8081
