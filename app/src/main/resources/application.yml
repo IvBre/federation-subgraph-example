@@ -1,6 +1,6 @@
 spring:
   application:
-    name: "subgraph-example"
+    name: "federation-subgraph-example"
 
 graphql:
   packages:
