@@ -9,6 +9,3 @@ graphql:
     enabled: true
     tracing:
       enabled: true
-
-server:
-  port: 8081
